@@ -1,4 +1,5 @@
 const pressed = [];
+const secretCode = "Apples";
 
 
 window.addEventListener('keyup', (e) => {
